@@ -2,6 +2,8 @@ from flask import Flask
 from textblob import TextBlob
 
 # create Flask app
+# First Application for Flask
+
 app = Flask(__name__)
 
 # a simple home page
