@@ -2,7 +2,7 @@ from flask import Flask
 from textblob import TextBlob
 
 # create Flask app
-# First Application for Flask
+# First Application for Flask test to learn
 
 app = Flask(__name__)
 
